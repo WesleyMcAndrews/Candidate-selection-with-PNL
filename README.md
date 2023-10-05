@@ -38,7 +38,7 @@ The project consists of the following files:
 
 - `resume_keyword_extractor.ipynb`: A Jupyter Notebook containing the Python script for extracting keywords from resumes and creating the tag cloud using the TF-IDF algorithm.
 - `power_bi_report.pbix`: A Power BI report for visualizing the extracted keywords and tag cloud.
-- `sample_resumes/`: A folder containing sample resumes for testing and demonstration purposes.
+- `candidates_resume.xlsx`: A excel file containing sample resumes for testing and demonstration purposes.
 
 ## Getting Started
 
